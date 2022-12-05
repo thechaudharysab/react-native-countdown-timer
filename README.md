@@ -1,2 +1,2 @@
 # react-native-countdown-timer
-CodeSandbox Link: 
+CodeSandbox Link: https://codesandbox.io/s/countdown-timer-in-react-native-utdv9x
